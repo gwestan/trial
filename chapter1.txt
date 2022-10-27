@@ -1,1 +1,3 @@
-this is a demo on git and github version control
+this is a demo on git and github version control. 
+complet chpt 1
+
